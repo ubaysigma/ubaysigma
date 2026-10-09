@@ -59,7 +59,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p3ev3xho53pwcmm4anpsilxiju&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Spotify Player" />
   </a>
 </div>
----
+
 
 <!-- ## 📊 GitHub Statistics
 
