@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <Ubay> 👋
+# Hi there, I'm Ubay 👋
 
 ### 🚀 Full-Stack Developer & Tech Enthusiast
 
