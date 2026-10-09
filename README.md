@@ -65,7 +65,6 @@
 
 </div> -->
 
----
 
 <!-- ## 🏆 Featured Projects
 
@@ -74,7 +73,7 @@
 | **Portfolio Website** | Personal portfolio and project showcase | React, Tailwind CSS | [Demo / Code](https://github.com/<YOUR_GITHUB_USERNAME>/portfolio-website) |
 | **Chatbot AI** | Intelligent conversational bot | Python / Node.js | [Demo / Code](https://github.com/<YOUR_GITHUB_USERNAME>/chatbot) | -->
 
----
+
 
 <div align="center">
 
