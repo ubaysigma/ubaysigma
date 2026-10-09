@@ -43,7 +43,7 @@
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,laravel" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,laravel" alt="Frameworks" />
 </p>
 
 ### **Databases & Tools**
