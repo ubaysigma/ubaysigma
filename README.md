@@ -27,10 +27,10 @@
 
 ## 📌 About Me
 
-- 🔭 Currently working on: **Mobile Development & AI projects**
-- 🌱 Currently learning: **Modern Frontend & Backend Architectures**
-- 💬 Ask me about: **JavaScript, Java, Flutter, React, Node.js, Python**
-- ⚡ Fun fact: **I turn coffee into code ☕ -> 💻**
+- Currently working on: **Mobile Development & AI projects**
+- Currently learning: **Modern Frontend & Backend Architectures**
+- Ask me about: **JavaScript, Java, Flutter, React, Node.js, Python**
+- Fun fact: **I turn coffee into code**
 
 ---
 
@@ -52,13 +52,15 @@
 </p>
 
 ---
-## 🎧 Something I Want to Share
+## Something I Want to Share
 <div align="center">
   <p><em>"Good vibes, coffee, and music while coding ☕🎧 — Here's what I'm listening to right now:"</em></p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31p3ev3xho53pwcmm4anpsilxiju&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p3ev3xho53pwcmm4anpsilxiju&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Spotify Player" />
   </a>
 </div>
+
+---
 
 
 <!-- ## 📊 GitHub Statistics
