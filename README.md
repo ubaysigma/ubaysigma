@@ -14,7 +14,7 @@ Currently focused on exploring Mobile Development & AI integration.
 - 🛠️ **Backend:** Building robust REST APIs & scalable database integrations.
     </td>
     <td width="45%" valign="top" align="center">
-### 🎧 Now Playing
+### 🎧 Feels The Vibes
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31p3ev3xho53pwcmm4anpsilxiju&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p3ev3xho53pwcmm4anpsilxiju&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Spotify Player" />
 </a>
