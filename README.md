@@ -57,7 +57,7 @@ Currently focused on exploring Mobile Development & AI integration.
 ---
 
 ### 📫 Connect with Me
-<a href="https://linkedin.com/in/hubaib-akhtar-al-fariezy">
+<a href="https://www.linkedin.com/in/hubaib-akhtar-al-fariezy-b47177424/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:hubaibakhtar09@gmail.com">
